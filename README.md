@@ -1,0 +1,2 @@
+# Architecture-impact-of-Differential-privacy-IDS-log-moment-accounting
+This experiment evaluates and compares various Private Ensemble Architectures (comprising different numbers and combinations of Teacher models transferring knowledge to a Student model) under the framework of Differential Privacy (DP), specifically analyzing the trade-offs between model utility (performance) and privacy guarantees.
